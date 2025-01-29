@@ -2,3 +2,4 @@ Su
 Seker 
 Kahve çekirdeğis
 
+linux
